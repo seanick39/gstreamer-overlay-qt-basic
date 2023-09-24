@@ -17,5 +17,3 @@ $ ./run.sh
 
 To kill backend process
 $ ./kill-backend.sh
-
-If unable to run, demo.mp4 is available, too.
